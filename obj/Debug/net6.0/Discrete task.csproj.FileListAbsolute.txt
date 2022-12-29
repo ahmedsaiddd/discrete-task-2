@@ -1,0 +1,15 @@
+C:\Users\Spider Store\source\repos\Discrete task\Discrete task\bin\Debug\net6.0\Discrete task.exe
+C:\Users\Spider Store\source\repos\Discrete task\Discrete task\bin\Debug\net6.0\Discrete task.deps.json
+C:\Users\Spider Store\source\repos\Discrete task\Discrete task\bin\Debug\net6.0\Discrete task.runtimeconfig.json
+C:\Users\Spider Store\source\repos\Discrete task\Discrete task\bin\Debug\net6.0\Discrete task.dll
+C:\Users\Spider Store\source\repos\Discrete task\Discrete task\bin\Debug\net6.0\Discrete task.pdb
+C:\Users\Spider Store\source\repos\Discrete task\Discrete task\obj\Debug\net6.0\Discrete task.csproj.AssemblyReference.cache
+C:\Users\Spider Store\source\repos\Discrete task\Discrete task\obj\Debug\net6.0\Discrete task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spider Store\source\repos\Discrete task\Discrete task\obj\Debug\net6.0\Discrete task.AssemblyInfoInputs.cache
+C:\Users\Spider Store\source\repos\Discrete task\Discrete task\obj\Debug\net6.0\Discrete task.AssemblyInfo.cs
+C:\Users\Spider Store\source\repos\Discrete task\Discrete task\obj\Debug\net6.0\Discrete task.csproj.CoreCompileInputs.cache
+C:\Users\Spider Store\source\repos\Discrete task\Discrete task\obj\Debug\net6.0\Discrete task.dll
+C:\Users\Spider Store\source\repos\Discrete task\Discrete task\obj\Debug\net6.0\refint\Discrete task.dll
+C:\Users\Spider Store\source\repos\Discrete task\Discrete task\obj\Debug\net6.0\Discrete task.pdb
+C:\Users\Spider Store\source\repos\Discrete task\Discrete task\obj\Debug\net6.0\Discrete task.genruntimeconfig.cache
+C:\Users\Spider Store\source\repos\Discrete task\Discrete task\obj\Debug\net6.0\ref\Discrete task.dll
